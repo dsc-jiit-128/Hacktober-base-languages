@@ -1,1 +1,1 @@
-# Hacktober_basic_C-C-
+# Hacktober base languages
